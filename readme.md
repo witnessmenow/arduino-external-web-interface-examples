@@ -1,6 +1,6 @@
 # Exploring using external web interfaces for your Arduino
 
-I think it's amazing that $4 esp8266 boards can host webpages, but actually writing the webpage within your sketch can be very frustrating! In these examples I'm going to look at some different ways of moving the development away from the Arduino.
+I think it's amazing that [$4 ESP8266 boards](http://s.click.aliexpress.com/e/uzFUnIe) can host webpages, but actually writing the webpage within your sketch can be very frustrating! In these examples I'm going to look at some different ways of moving the development away from the Arduino.
 
 The server code for these examples can be found [here](https://github.com/witnessmenow/external-web-interfaces-arduino)
 
